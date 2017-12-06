@@ -1,0 +1,50 @@
+aws ec2 run-instances --image-id ami-f3e5aa9c --security-group-ids sg-c8207fa0 --count 1 --instance-type t2.micro --key-name awskey
+
+
+8nkB2oLVmmlcMf3Q/v+NTwC3PiKNIOdueKgrcg6X
+
+
+AKIAJV7PJ2HNFSYIM5CQ
+
+
+
+
+
+
+AKIAJZ2CUN6PXRIJWJNA
+
+4PPacWP/gLqjcVC+MWzLANOOEIxw0qJ97GnmO2fp
+
+
+
+
+aws ec2 start-instances --image-id  ami-0def3275
+
+ami-f3e5aa9c
+
+aws ec2 stop-instances --image-id  ami-46eea129
+
+aws ec2 stop-instances --instance-ids i-0a2b078ea55f1e0f3
+
+
+
+
+
+AKIAIJCRY3Q43G5NNIZA
+
+9Bo8XZEvy9rkYrnPbjSWqZ+OQTG2rnpjTLhLD+r8
+
+
+aws ec2 stop-instances --instance-ids i-045ba7cee89f143db
+
+
+
+create instance:
+
+ami-f3e5aa9c
+
+
+AKIAJTAIQXO5ZXFVWDVA
+r/mJFYexGUq0L28W/+govwrdMmg37uf5+WN7Hdex
+
+aws ec2 run-instances --image-id ami-0def3275 --count 1 --instance-type t2.micro --key-name awskey 
